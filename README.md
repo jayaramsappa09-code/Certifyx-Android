@@ -1,11 +1,11 @@
-<div align="center">
+# Certifyx - Class Certificate Automation Manager (Android App)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Certifyx is a native Android application built with Kotlin and Jetpack Compose designed to automate synchronization and compliance tracking of student class certificates between Google Drive and Google Sheets.
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Features
+- **Dashboard & Stats**: Real-time overview of student certificate completion rates, pending verifications, and data integrity scores.
+- **Student Roster & Status Management**: Search and filter 67 enrolled class students, track Drive uploads and Google Sheet responses, and update verification statuses.
+- **Google Drive & Sheets Integration**: Configure connected certificate folders and response spreadsheets, and trigger automated sync engine runs.
+- **Reconciliation & Gap Analysis**: Identify missing sheet records, missing drive files, and quantity discrepancies.
+- **Audit Logs & Sync History**: Track chronological sync reports and administrative audit actions.
+- **Export Center**: Generate and download class summary and individual certificate reports.

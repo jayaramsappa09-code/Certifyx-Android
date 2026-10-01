@@ -1,0 +1,9 @@
+{
+  "name": "certifyx-android",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Certifyx Android App",
+  "scripts": {
+    "build": "echo 'Android project builds via gradle'"
+  }
+}
